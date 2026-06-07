@@ -16,7 +16,7 @@ define('SITE_URL', 'http://localhost/documentaryhub');
 define('SITE_DESCRIPTION', 'Your ultimate destination for quality documentaries');
 
 // YouTube Data API Key (for cron.php auto-fetch)
-define('YOUTUBE_API_KEY', 'AIzaSyB5NiGPbEBlB8lPtpYyLJpq7JaQEadYALE');
+define('YOUTUBE_API_KEY', 'Paste your API key here');
 
 // Session start
 if (session_status() === PHP_SESSION_NONE) {
